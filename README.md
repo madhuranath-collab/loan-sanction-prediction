@@ -13,12 +13,6 @@ Univariate Analysis: Distribution of individual features like applicant income, 
 
 Bivariate Analysis: Relationship between target variable and independent features like education vs loan status, credit history vs loan status, etc.
 
-## Tools Used:
-
-NumPy, Pandas for data handling
-
-Matplotlib, Seaborn for data visualization
-
 ## 🔧 Feature Engineering
 Handled missing values through imputation strategies.
 
